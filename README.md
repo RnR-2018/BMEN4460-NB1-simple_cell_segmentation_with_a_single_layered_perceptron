@@ -1,4 +1,4 @@
-# BMEN4460-NB1
+# BMEN4460-Notebook1
 ## Simple Cell Segmentation with a Single Layered Perceptron.
 Nanyan "Rosalie" Zhu and Chen "Raphael" Liu
 
