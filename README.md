@@ -16,8 +16,10 @@ git clone https://github.com/RnR-2018/BMEN4460-NB1-simple_cell_segmentation_with
 
 You shall then see the following hierarchy of files and folders, hopefully, which matches the hierarchy of the current repository.
 
+```
 BMEN4460-NB1-simple_cell_segmentation_with_a_single_layered_perceptron
     ├── BMEN4460_NB1_simple_cell_segmentation_with_a_single_layered_perceptron.ipynb
     ├── helper.py
     └── data
         └── sample_cell_image.tif
+```
