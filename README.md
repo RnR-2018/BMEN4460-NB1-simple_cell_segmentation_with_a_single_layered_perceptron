@@ -27,6 +27,8 @@ BMEN4460-NB1-simple_cell_segmentation_with_a_single_layered_perceptron
         └── perceptron_CNN.PNG
 ```
 
+One thing to note: we are not sure why, but it seems that the markdown support at GitHub is a little different from that in jupyter lab. The notations in our '.ipynb' notebook went crazy if you look at them on GitHub. The issue will most likely go away once you download it and open it in jupyter lab.
+
 Again, the concepts covered are quite rudimentary. Hope you enjoy this.
 
 ## Figures we created to illustrate the three perceptron candidates.
