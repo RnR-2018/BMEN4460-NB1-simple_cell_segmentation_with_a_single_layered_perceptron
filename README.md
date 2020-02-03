@@ -30,11 +30,11 @@ BMEN4460-NB1-simple_cell_segmentation_with_a_single_layered_perceptron
 Again, the concepts covered are quite rudimentary. Hope you enjoy this.
 
 ## Figures we created to illustrate the three perceptron candidates.
-### Perceptron, single input.
+### Candidate 1: Perceptron, single input.
 <img src="/data/perceptron_single_input.PNG" width="1000px">
 
-### Perceptron, multi input.
+### Candidate 2: Perceptron, multi input.
 <img src="/data/perceptron_multi_input.PNG" width="1000px">
 
-### Perceptron, convolutional neural network.
+### Candidate 3: Perceptron, convolutional neural network.
 <img src="/data/perceptron_CNN.PNG" width="1000px">
