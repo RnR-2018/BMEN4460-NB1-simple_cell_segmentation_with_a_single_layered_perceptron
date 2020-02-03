@@ -18,7 +18,7 @@ You shall then see the following hierarchy of files and folders, hopefully, whic
 
 ```
 BMEN4460-NB1-simple_cell_segmentation_with_a_single_layered_perceptron
-    ├── BMEN4460_NB1_simple_cell_segmentation_with_a_single_layered_perceptron.ipynb
+    ├── BMEN4460_NB1_simple_cell_segmentation_with_single_layered_perceptrons.ipynb
     ├── helper.py
     └── data
         └── sample_cell_image.tif
