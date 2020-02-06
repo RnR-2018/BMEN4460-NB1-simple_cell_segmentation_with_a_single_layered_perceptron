@@ -14,6 +14,11 @@ cd Projects
 git clone https://github.com/RnR-2018/BMEN4460-NB1-simple_cell_segmentation_with_a_single_layered_perceptron/
 ```
 
+If it says "fatal: could not create work tree dir ...", you may as well try it again with super user permission
+```
+sudo git clone https://github.com/RnR-2018/BMEN4460-NB1-simple_cell_segmentation_with_a_single_layered_perceptron/
+```
+
 You shall then see the following hierarchy of files and folders, hopefully, which matches the hierarchy of the current repository.
 
 ```
