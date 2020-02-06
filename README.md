@@ -9,8 +9,8 @@ This repository, [**Simple Cell Segmentation with a Single Layered Perceptron**]
 On the GCP VM Terminal:
 ```
 cd /home/[username]/
-mkdir BMEN4460
-mkdir BMEN4460/Perceptron
+mkdir BMEN4460 # This is only necessary if you have not done this yet
+mkdir BMEN4460/Perceptron # This is only necessary if you have not done this yet
 cd BMEN4460/Perceptron
 git clone https://github.com/RnR-2018/BMEN4460-NB1-simple_cell_segmentation_with_a_single_layered_perceptron/
 ```
