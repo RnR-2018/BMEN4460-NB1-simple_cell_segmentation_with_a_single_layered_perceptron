@@ -2,6 +2,10 @@
 ## Simple Cell Segmentation with a Single Layered Perceptron.
 Nanyan "Rosalie" Zhu and Chen "Raphael" Liu
 
+### Correction
+More appropriately, we should have use the word "sigmoid activation unit" instead of "perceptron" throughout this entire repository. Strictly speaking, a "perceptron" shall only be called a "perceptron" if the activation function is a step function, instead of the sigmoid function that we are using here. You may explore on your own what might happen if you swap out the activation function and make the "perceptrons" real "perceptrons".
+
+### Overview
 This repository is a child repository of [**RnR-2018/Deep-learning-with-PyTorch-and-GCP**](https://github.com/RnR-2018/Deep-learning-with-PyTorch-and-GCP). This serves a primary purpose of facilitating the course BMEN4460 instructed by Dr. Andrew Laine and Dr. Jia Guo at Columbia University. However, it can also be used as a general beginner-level tutorial to implementing deep learning algorithms with PyTorch on Google Cloud Platform.
 
 This repository, [**Simple Cell Segmentation with a Single Layered Perceptron**](https://github.com/RnR-2018/BMEN4460-NB1-simple_cell_segmentation_with_a_single_layered_perceptron), presents three simple examples of the least complicated neural networks.
